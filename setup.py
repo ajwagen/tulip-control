@@ -131,6 +131,7 @@ def run_setup():
             'ply >= 3.4',
             'networkx >= 1.6',
             'numpy >= 1.7',
+            'omega == 0.0.8',
             'scipy'],
         extras_require={
             'hybrid': ['cvxopt >= 1.1.7',
